@@ -78,7 +78,7 @@ python main.py
 
 Полный сценарий игры (от запуска до победы)
 
-![asciicast]( https://asciinema.org/a/yffxQTFsk1uFlH3r)
+https://asciinema.org/a/yffxQTFsk1uFlH3r
 
 Сценарий включает:
 1. Запуск игры — приветственное сообщение и начальная комната
